@@ -769,3 +769,4 @@ find <directory> -name <file_name>
 **Output:**
 
 ## Result
+Linux commands are executed in the linux terminal successfully.
